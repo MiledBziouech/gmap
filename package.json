@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "axios": "^1.6.7",
     "distance-matrix-api": "^1.0.0",
     "expo": "~50.0.7",
     "expo-location": "^16.5.3",
